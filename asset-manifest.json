@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/REACT-ToDoList/static/css/main.4395edb5.css",
+    "main.js": "/REACT-ToDoList/static/js/main.f2a8f505.js",
+    "static/media/Trianglify.png": "/REACT-ToDoList/static/media/Trianglify.11044ebe97f4f8372cd4.png",
+    "index.html": "/REACT-ToDoList/index.html",
+    "main.4395edb5.css.map": "/REACT-ToDoList/static/css/main.4395edb5.css.map",
+    "main.f2a8f505.js.map": "/REACT-ToDoList/static/js/main.f2a8f505.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4395edb5.css",
+    "static/js/main.f2a8f505.js"
+  ]
+}
